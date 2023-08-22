@@ -1,0 +1,34 @@
+[
+    {
+        "role": "Technical Content Writer ",
+        "organisation": "GeeksForGeeks",
+        "startDate": "Aug, 2023",
+        "endDate": "Present",
+        "experiences": ["Writing, editing, and improving technical content."],
+        "imageSrc": "history/gfg.jpeg"
+    },
+    {
+        "role": "Software Engineer Intern",
+        "organisation": "Honeywell",
+        "startDate": "Jan, 2023",
+        "endDate": "June, 2023",
+        "experiences": [
+            "Worked on remotely monitoring network devices using version 3 of Simple Network Management Protocol(SNMPv3).",
+            "Implemented Net-SNMP and PySNMP on devices such as virtual machines, raspberry pi, and sensors for SNMP Manager and SNMP Agent.",
+            "Developed Dash app integrated Django GUI for SNMP Manager with role-based feature enabled and created new OIDs using bash script.",
+            "Retrieved real-time telemetry from remote network devices using Dash callback and rendered it as text and Graphs with hot-reloading on the Django application."
+        ],
+        "imageSrc": "history/honeywell.jpeg"
+    },
+    {
+        "role": "Web Developer Intern",
+        "organisation": "Sri Sri Institute for Advanced Research",
+        "startDate": "Apr, 2020",
+        "endDate": "Jun, 2020",
+        "experiences": [
+            "Developed the website of 'Sri Sri Global Meditating Scientists and Doctors Association'.",
+            "Worked with HTML, CSS, JS, and WordPress to implement various features."
+        ],
+        "imageSrc": "history/ssiar.png"
+    }
+]

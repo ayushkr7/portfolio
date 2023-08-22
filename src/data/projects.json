@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Video Chat App",
+        "imageSrc": "projects/project.png",
+        "description": "Peer to Peer video chat application made using webRTC",
+        "skills": ["React", "Socket.io", "webRTC", "Tailwind CSS"],
+        "demo": "#",
+        "source": "https://github.com/ayushkr7/webrtc-video-chat"
+    },
+    {
+        "title": "Activity Tracker",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["React", "Express", "Node", "MongoDB", "Bootstrap"],
+        "demo": "#",
+        "source": "https://github.com/ayushkr7/activity-tracker"
+    },
+    {
+        "title": "ImagePark",
+        "imageSrc": "projects/project.png",
+        "description": "Fullstack Image sharing web app with Pinterest based UI",
+        "skills": ["React", "NextAuth", "Tailwind CSS", "Firebase", "Next.js"],
+        "demo": "#",
+        "source": "https://github.com/ayushkr7/ImagePark"
+    },
+    {
+        "title": "To-Do Chrome Exrtension",
+        "imageSrc": "projects/project.png",
+        "description": "A google chrome extension to keep track of day-to-day activity. Operations such as add, edit, mark as complete and delete task provided.",
+        "skills": ["HTML", "CSS", "JavaScript", "Manifest.v5"],
+        "demo": "#",
+        "source": "https://github.com/ayushkr7/to-do-chrome-extensions"
+    },
+    {
+        "title": "Minesweeper Game",
+        "imageSrc": "projects/project.png",
+        "description": "A classic 10x10 minesweeper game made using HTML, CSS, JS with an added stopwatch to check your speed.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "DOM Manipulation",
+            "Recursion"
+        ],
+        "demo": "https://ayushkr7.github.io/minesweeper/",
+        "source": "https://github.com/ayushkr7/minesweeper-game"
+    }
+]

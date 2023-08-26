@@ -13,7 +13,7 @@ export const Hero = () => {
                     command over Data Structures and Algorithms.
                 </p>
                 <a
-                    href="https://drive.google.com/file/d/11C8OYnm59Eh21StwyN_Du_3n2rzEl_zD/view?usp=sharing"
+                    href="https://drive.google.com/file/d/192KZ8A6gAl5NpykPhYSpebyalO1tVBRn/view?usp=sharing"
                     target="_blank"
                     className={styles.contactBtn}
                 >

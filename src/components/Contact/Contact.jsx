@@ -17,7 +17,7 @@ export const Contact = () => {
                         alt="Email icon"
                     />
                     <a href="mailto:krayush.ak@email.com" target="_blank">
-                        krayush.ak@email.com
+                        krayush.ak@gmail.com
                     </a>
                 </li>
                 <li className={styles.link}>

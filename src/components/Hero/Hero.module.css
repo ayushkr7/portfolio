@@ -106,7 +106,12 @@
     flex-direction: column-reverse;
   }
 
+  .title {
+    font-size: 52px;
+  }
+
   .content {
     align-items: center;
+    text-align: center;
   }
 }

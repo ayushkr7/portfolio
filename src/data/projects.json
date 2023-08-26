@@ -10,7 +10,7 @@
     {
         "title": "Activity Tracker",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "A full-stack app to track of the daily activity of multiple users.",
         "skills": ["React", "Express", "Node", "MongoDB", "Bootstrap"],
         "demo": "#",
         "source": "https://github.com/ayushkr7/activity-tracker"
@@ -26,7 +26,7 @@
     {
         "title": "To-Do Chrome Exrtension",
         "imageSrc": "projects/project.png",
-        "description": "A google chrome extension to keep track of day-to-day activity. Operations such as add, edit, mark as complete and delete task provided.",
+        "description": "A google chrome extension to schedule and priortize of daily activity.",
         "skills": ["HTML", "CSS", "JavaScript", "Manifest.v5"],
         "demo": "#",
         "source": "https://github.com/ayushkr7/to-do-chrome-extensions"
@@ -34,7 +34,7 @@
     {
         "title": "Minesweeper Game",
         "imageSrc": "projects/project.png",
-        "description": "A classic 10x10 minesweeper game made using HTML, CSS, JS with an added stopwatch to check your speed.",
+        "description": "A classic 10x10 minesweeper game made using HTML, CSS, JS.",
         "skills": [
             "HTML",
             "CSS",
